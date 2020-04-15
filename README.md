@@ -1,6 +1,7 @@
 Agility Through Continuous Delivery
 ====================================
 
+bob comment
 
 Git the Code!
 --------------
