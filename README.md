@@ -6,7 +6,7 @@ Git the Code!
 
 ### Clone the Repo ###
 
-The base code can be found at https://github.com/sketchdev/devopsmw-express-hello.
+The base code can be found at https://github.com/sketchdev/devopsmw-express-hello.  Modified by bbecker for git testing.
 
 There are two suggested ways of copying this code and using it on your own.  You can either 1) use GitHub and fork the repository, or you can 2) use AWS Code Commit to clone the code into.  This demo will proceed using GitHub.  If you are interested in the Code Commit option, see the README-AWS-CodeCommit.md document for instructions on that path.
 
